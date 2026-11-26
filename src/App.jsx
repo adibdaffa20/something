@@ -159,7 +159,7 @@ const sections = [
     emLine: 0,
     final: true,
     body: [
-      'Setelah semua cerita tadi, mungkin sekarang kamu sudah tahu kenapa aku membuat website ini.',
+      'Setelah semua cerita tadi, mungkin sekarang kamu sudah tahu kenapa aku membuat tulisan ini.',
       'Aku tidak tahu bagaimana perjalanan kita ke depannya. Aku juga tidak berharap semuanya harus berjalan sempurna.',
       'Tapi aku ingin mencoba mengenal kamu lebih jauh, bukan hanya sebagai teman kantor, melainkan sebagai seseorang yang punya tempat spesial dalam hidupku.',
       'Aku ingin kita punya lebih banyak cerita, lebih banyak waktu bersama, dan kesempatan untuk saling memahami satu sama lain.',
